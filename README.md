@@ -12,7 +12,7 @@ Prerequisites
 
 Ensure you have the following installed on your machine: Java JDK 17 (or later) MySQL Server Maven Git Installation & Setup
 
-Clone the repository: git clone https://github.com/Shiva-1436/Ai-powered-Resume-Review.git cd Ai-powered-Resume-Review 2.Configure Database & Environment Variables Update your application.properties with your database credentials and API keys:
+Clone the repository: git clone https://github.com/sravan802/AI-Powered-Resume-Reviewer cd Ai-powered-Resume-Review 2.Configure Database & Environment Variables Update your application.properties with your database credentials and API keys:
 
 url: jdbc:mysql://localhost:3306/mysql url of your db username: YOUR_DATABASE_USERNAME password: YOUR_DATABASE_PASSWORD api: YOUR_APIKEY Build the Application Run the Application 🔗 API Endpoints
 
